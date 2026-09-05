@@ -24,8 +24,6 @@
  python -m pip install pyspark pandas numpy matplotlib seaborn scikit-learn
  ```
 
- To confirm which `python` will be used by Spark when running `spark-submit`, set `PYSPARK_PYTHON` to that interpreter path (see below).
-
 
  ## Running and inspecting in Visual Studio Code
  1. Open the repository folder in VS Code.
