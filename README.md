@@ -32,7 +32,7 @@
  4. To run the notebook interactively: open `Part1DataPipelines.ipynb` and use the Run All / Run Cell buttons. Outputs render inline in VS Code.
 
 
- ## Data and configuration
+ ## Data Output
  - Raw source files are in the `/RAW/` folder. 1 of the files are zipped as its too large to be uploaded to github
  - Cleaned file is in the `output/Cleaned/Cleaned.csv.zip` Unzip it to get the actual Cleaned csv file
  - Transformed file is in the `output/Transformed/Transformed.csv.zip`. Unzip it to get the actual Transformed csv file
