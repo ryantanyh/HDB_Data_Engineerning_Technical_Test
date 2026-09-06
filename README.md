@@ -37,3 +37,10 @@
  - Cleaned file is in the `output/Cleaned/Cleaned.csv.zip` Unzip it to get the actual Cleaned csv file
  - Transformed file is in the `output/Transformed/Transformed.csv.zip`. Unzip it to get the actual Transformed csv file
  - Hashed file is in the `output/Hashed/Hashed.csv.zip`. Unzip it to get the actual Hashed csv file
+ - Quarantined file is in the `output/Quarantined/Quarantined.csv.zip`. Unzip it to get the actual Hashed csv file
+
+ ## Insights and Assumptions file
+ - There is another markdown file `InsightsAndAssumptions.md`
+
+ # Part2DataArchitecture
+ - Have uploaded a `Part2DataArchitecture.pdf` pdf file
